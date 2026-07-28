@@ -1,22 +1,26 @@
-# FIFA World Cup 2026 Player Performance Dashboard ⚽📊
+# ⚽ FIFA World Cup 2026 Player Performance Dashboard
 
-## Overview
-
-This project presents an interactive Power BI dashboard that analyzes player performance in the FIFA World Cup 2026. The dashboard provides insights into goals, assists, matches played, player ratings, team performance, and other key performance indicators.
+An interactive **Power BI dashboard** built to analyze FIFA World Cup 2026 player and team performance using KPIs, DAX measures, and interactive visualizations.
 
 ---
 
-## Objectives
+## 📌 Overview
 
-- Analyze player performance across teams
+This dashboard provides insights into player and team performance by analyzing key metrics such as goals, assists, matches played, player ratings, clean sheets, pass accuracy, and more. It enables users to explore tournament statistics through dynamic filters and interactive reports.
+
+---
+
+## 🎯 Objectives
+
+- Analyze player and team performance
 - Identify top goal scorers and assist providers
-- Compare player ratings
-- Visualize team-wise statistics
-- Build an interactive Business Intelligence dashboard
+- Compare player ratings and match statistics
+- Visualize team-wise performance using interactive dashboards
+- Support data-driven decision-making with Business Intelligence
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI
 - Power Query
@@ -26,67 +30,68 @@ This project presents an interactive Power BI dashboard that analyzes player per
 
 ---
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 - KPI Cards
+  - Total Teams
+  - Total Players
   - Total Matches
   - Total Goals
   - Total Assists
   - Average Player Rating
+  - Total Cities
 
-- Interactive Charts
-  - Column Chart
-  - Bar Chart
-  - Line Chart
-  - Donut Chart
+- Interactive Visualizations
+  - Bar Charts
+  - Column Charts
+  - Pie Chart
   - Funnel Chart
-  - Ribbon Chart
-  - Area Chart
-
-- Dynamic Slicers
-
-- Cross Filtering
+  - Line & Area Charts
+  - Tables
+  - Map Visualization
+  - Slicers & Filters
 
 ---
 
-## DAX Measures
+## 📈 DAX Measures
 
 - Total Goals
 - Total Assists
-- Average Player Rating
 - Total Matches
+- Average Player Rating
+- Clean Sheets
+- Successful Crosses
+- Pass Accuracy
 
 ---
 
-## Business Insights
 
-- Identify top-performing players
-- Compare team performance
-- Analyze goal contribution
-- Track assists and player ratings
-- Explore tournament statistics using interactive filters
 
----
+## 💡 Business Insights
 
-## Repository Contents
-
-Dashboard.pbix
-
-dataset.csv
-
-Dashboard Screenshots
-
-README.md
+- Identified top-performing players based on goals, assists, and ratings.
+- Compared team performance across multiple KPIs.
+- Analyzed clean sheets, pass accuracy, and successful crosses.
+- Enabled dynamic filtering for detailed player and team analysis.
+- Created interactive reports to support business intelligence and data-driven decisions.
 
 ---
 
-## Dashboard Preview
+## 📂 Repository Structure
 
-(Add screenshots here)
+```
+FIFA-World-Cup-2026-PowerBI-Dashboard/
+│── Dashboard.pbix
+│── dataset.csv
+│── README.md
+│── images/
+│   ├── dashboard1.png
+│   └── dashboard2.png
+```
 
 ---
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 - Power BI
 - DAX
@@ -98,9 +103,16 @@ README.md
 - Business Intelligence
 - Data Visualization
 - KPI Reporting
+- Data Analysis
 
 ---
 
+## 👩‍💻 Author
+
+**Shraddha Gobare**
+
+- GitHub: https://github.com/Shraddha-max
+- LinkedIn: https://linkedin.com/in/shraddha-gobare
 ## Author
 
 **Shraddha Gobare**
